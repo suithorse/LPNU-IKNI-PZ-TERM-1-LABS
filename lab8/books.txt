@@ -1,0 +1,7 @@
+Stephen King        	The Dark Tower      	1982 	 4720 	 119.99$
+Jack London         	Hearts of Three    	1918 	 407 	 5$
+Andrzej Sapkowski   	The Witcher       	1986 	 2500 	 34.99$
+Lewis Carroll         	Alice in Wonderland  	1865 	 311 	 9.99$
+Frank Herbert          	Dune                 	1965 	 412 	 12$ 
+Dan Brown             	Angels and Demons    	2000 	 616 	 12$
+Stephen King         	The Institute       	2019 	 576 	 16$
